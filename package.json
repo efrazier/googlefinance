@@ -1,0 +1,19 @@
+{
+  "name": "googlefinance",
+  "version": "1.0.0",
+  "description": "Google Finance API, stock updates, performance since purchase. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrazier/googlefinance.git"
+  },
+  "author": "Eric Frazier",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/efrazier/googlefinance/issues"
+  },
+  "homepage": "https://github.com/efrazier/googlefinance#readme"
+}
